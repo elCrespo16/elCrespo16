@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elCrespo16
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Haskell
